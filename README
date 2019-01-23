@@ -21,7 +21,7 @@ NOTE: Program Developed and Tested With Browser Installed At Default Locations..
 III. Quick Start Directions
 ------------
 Sample configuration options and files are provided to quickly get the program running once extracted on the users PC.
-1. Complete the browser choice properties section starting around "line 125" in the autoBackConfig.properties file.
+1. Complete the browser choice properties section starting around "line 125" in the motorBackConfig.properties file.
 2. Double click the MotorBackTV_vX.XX.jar file to start the program.
 
 ------------
