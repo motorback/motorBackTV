@@ -26,15 +26,15 @@ Sample configuration options and files are provided to quickly get the program r
 ------------
 IV. File List
 ------------
-motorBackConfig.properties	- Contains the setup configuration for each back test execution
+motorBackConfig.properties		- Contains the setup configuration for each back test execution
 motorBackReporter_v0.1_BETA.xlsm	- MS Excel document capable of generating detailed report of back test results
-motorBackTV_v0.1_BETA.jar	- Program executable file, double click to initiate back test after configuration is complete
-binanceUSDT.txt			- Sample list of USDT pairs		
-binanceBTC.txt			- Sample list of BTC pairs
-binanceETH.txt			- Sample list of ETH pairs
-candleList1.txt			- Sample list of candle/ordersize
-README.txt			- This file describing program contents and operations
-folderStructureExample.JPG	- Folder structure example
+motorBackTV_v0.1_BETA.jar		- Program executable file, double click to initiate back test after configuration is complete
+binanceUSDT.txt				- Sample list of USDT pairs		
+binanceBTC.txt				- Sample list of BTC pairs
+binanceETH.txt				- Sample list of ETH pairs
+candleList1.txt				- Sample list of candle/ordersize
+README.txt				- This file describing program contents and operations
+folderStructureExample.JPG		- Folder structure example
 
 chromedriver.exe		- NOT SUPPLIED - Required file for program use of the Chrome browser. 
 				      	         Download  here: http://chromedriver.chromium.org/downloads
@@ -43,7 +43,7 @@ geckdriver.exe			- NOT SUPPLIED - Required file for program use of the FireFox b
 -------------
 V. Folder List
 -------------
-motorBackOutputs			- REQUIRED - Location of program output files which include two log files and two CSV (inputs for report generator) files.
+motorBackOutputs		- REQUIRED - Location of program output files which include two log files and two CSV (inputs for report generator) files.
 pairLists			- Location of pair list files
 candleLists			- Location of candle list files
 chromedriver_win32		- NOT SUPPLIED - Location of chromedriver.exe which is used in conjunction with the Chrome browser
@@ -77,16 +77,16 @@ VII. Program Outputs
 The program will output four files after each execution: log file, overview data file, overview data CSV file, and a trade list data CSV file.
 Samples of these files are provided to help potential users setup the configuration options and test the report generator.
 
-Log File - Will include a step by step summary of the program actions and information attempting to describe any encountered issues.
+motorBackRunLog - Will include a step by step summary of the program actions and information attempting to describe any encountered issues.
 Any pair/candle combination that results in "NO DATA" in the "Strategy Tester" or as an invalid entry will be detected and skipped.
 These types of occurrences will be noted in this file for later review by the user.
 
-OverView Data - This is a read friendly data file that includes the data points stored in the "Overview" tab of the "Strategy Tester" window.
+motorBackRunDataLog.txt - This is a read friendly data file that includes the data points stored in the "Overview" tab of the "Strategy Tester" window.
 
-OverView Data CSV - This is a CSV output of the data points stored in the "Overview" tab of the "Strategy Tester" window.  This file can be imported 
+motorBackData.csv - This is a CSV output of the data points stored in the "Overview" tab of the "Strategy Tester" window.  This file can be imported 
 into the supplied Excel Report Generator.
 
-Data Trade List CSV - This is a CSV output of the data stored in the "List of Trades" tab of the "Strategy Tester" window.  This file can 
+motorBackTradeListData.csv - This is a CSV output of the data stored in the "List of Trades" tab of the "Strategy Tester" window.  This file can 
 be imported into the supplied Excel Report Generator.
 
 -------------
