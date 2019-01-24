@@ -22,7 +22,7 @@ III. Quick Start Directions
 ------------
 Sample configuration options and files are provided to quickly get the program running once extracted on the users PC.
 1. Complete the browser choice properties section starting around "line 125" in the motorBackConfig.properties file.
-2. Double click the MotorBackTV_vX.XX.jar file to start the program.
+2. Double click the motorBackTV_vX.XX.jar file to start the program.
 
 ------------
 IV. File List
