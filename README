@@ -44,7 +44,7 @@ geckdriver.exe			- NOT SUPPLIED - Required file for program use of the FireFox b
 -------------
 V. Folder List
 -------------
-motorBackOutputs		- REQUIRED - Location of program output files which include four types log files for each test run.
+motorBackOutputs		- REQUIRED - Location of program output files which include four types of log files for each test run.
 pairLists			- Location of pair list files
 candleLists			- Location of candle list files
 chromedriver_win32		- NOT SUPPLIED - Location of chromedriver.exe which is used in conjunction with the Chrome browser
