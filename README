@@ -30,8 +30,8 @@ Sample configuration options and files are provided to quickly get the program r
 IV. File List
 ------------
 motorBackConfig.properties		- Contains the setup configuration for each back test execution
-motorBackReporter_v0.1_BETA.xlsm	- MS Excel document capable of generating detailed report of back test results
-motorBackTV_v0.1_BETA.jar		- Program executable file, double click to initiate back test after configuration is complete
+motorBackReporter_v0.1_beta.xlsm	- MS Excel document capable of generating detailed report of back test results
+motorBackTV_v0.1_beta.jar		- Program executable file, double click to initiate back test after configuration is complete
 binanceUSDT.txt				- Sample list of USDT pairs		
 binanceBTC.txt				- Sample list of BTC pairs
 binanceETH.txt				- Sample list of ETH pairs
