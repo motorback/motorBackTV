@@ -165,4 +165,7 @@ limit for number of graphs that can be generated per worksheet is set at 100. Fo
 graphs will be split over multiple worksheets.  For example, a pair with 250 tested candles will require 3 worksheets. While the report
 is being generated, a progress bar will be shown with information displaying the progress status, pair by pair and candle by candle.
 
+NOTE:   The "enable all macros" option may need to be set if the buttons are not functional.  To do this go to
+	File > Options > Trust Center > Macro Settings.  Under "Macro Settings" choose "Enable all macros".
+
 NOTE:   Work to improve the functionality of the workbook is ongoing along with charting design/scaling improvements.
