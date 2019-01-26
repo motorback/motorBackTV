@@ -110,7 +110,7 @@ IX. Program Setup
 -------------
 After Downloading "MotorBackTV_vX.XX.zip"
 1. Unzip file to location of your choice.
-2. Install or verify the installation of either FireFox and/or Chrome web browser preferrably in the default location. 
+2. Install or verify the installation of either FireFox and/or Chrome web browser, preferrably in the default locations. 
 
 Acquire The Appropriate Web Driver
 1. The web driver is used by the program to initialize and interface with the browser of choice.
@@ -120,20 +120,28 @@ Acquire The Appropriate Web Driver
    its reccomended to save in the MotorBack program folder.
 
 Complete "motorBackConfig.properties" Settings
-1. Choose a browser to.
+1. Enter license key where specified if sent one from motorbacktv@gmail.com, otherwise, leave blank for demo mode.
+2. Input URL of Trading View chart where specified.
 2. In the "pairLists" folder, create or modify a list of currency/stock pairs to be back tested. Use the provided sample lists as a guide
    for proper formatting to ensure the pair list is parsed accurately.
 3. In the "candleLists" folder, create or modify a list of candle lengths (time frames) with a corresponding order size. Use the 
    provided sample lists as a guide for formatting.  This list of candle and order sizes will be back tested for each pair in the
    designated pair list.
-4. When the 
-
+4. Complete browser settings for browser of choice.
+5. Set program behavior for closing browser window upon test completion or error, default is "true".
+6. Set default exchange to use if missing from pair list file.
+7. Set name of back test startegy to use. The name must be identical to how it is displayed in Trading View's strategy 
+   pull down selection
+8. Review description of pair cycle, candle cycle, and properties window click delays.  Set custom delays or leave as is. These may 
+   need to be increased later depending on browser speed.
+   
 -------------
 X. Program Operation
 -------------
 1. Once setup is complete, double click the motorBackTV_vX.XX.jar file to start the program.
-2. The browser of choice should open a new window and eventially navigate to the given TradingView chart.
-3. When the chart is loaded a
+2. The browser of choice should open a new window and eventually navigate to the given TradingView chart pnce the settings are 
+   parsed succesfully.
+3. When the chart is loaded, a small console window will appear with options for aborting back test and program status updates. 
 
 -------------
 XI. MS Excel Report Generator
