@@ -19,7 +19,7 @@ NOTE: Program Developed and Tested With Browser Installed At Default Locations..
 	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 	
 ------------
-III. Quick Start Directions
+III. Quick Start Directions (see README in zip file for detailed instructions)
 ------------
 Sample configuration options and files are provided to quickly get the program running once extracted on the users PC.
 1. Complete the browser choice properties section starting around "line 130" in the motorBackConfig.properties file.
