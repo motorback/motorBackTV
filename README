@@ -23,7 +23,7 @@ III. Quick Start Directions
 ------------
 Sample configuration options and files are provided to quickly get the program running once extracted on the users PC.
 1. Complete the browser choice properties section starting around "line 130" in the motorBackConfig.properties file.
-2. Set back test strategy starting around "line 200" in the motorBackConfig.properties file.
+2. Set back test strategy starting around "line 200" in the "motorBackConfig.properties" file.
 3. Double click the motorBackTV_vX.XX.jar file to start the program.
 
 ------------
@@ -102,11 +102,41 @@ VIII. Program Status and Live Options
 -------------
 After the program starts and initializes the browser window, a small status console will appear showing three cancel/abort options
 (Stop After Current Pair, Stop After Current Candle, and ABORT NOW) and three status indicators (Current Pair, Current Candle,
- and a information field with granular program statuses). Once a cancel option is clicked, depending on the custom "confirmationPrompt" 
- setting in the properties file, a prompt will show to confirm the action.
+and a information field with granular program statuses). Once a cancel option is clicked, depending on the custom "confirmationPrompt" 
+setting in the properties file, a prompt will show to confirm the action.
+ 
+-------------
+IX. Program Setup
+-------------
+After Downloading "MotorBackTV_vX.XX.zip"
+1. Unzip file to location of your choice.
+2. Install or verify the installation of either FireFox and/or Chrome web browser preferrably in the default location. 
+
+Acquire The Appropriate Web Driver
+1. The web driver is used by the program to initialize and interface with the browser of choice.
+2. For Chrome, download the web driver from here: http://chromedriver.chromium.org/downloads
+3. For FireFox, download the web driver from here: https://github.com/mozilla/geckodriver/releases
+4. Store this file anywhere on the hard drive, the location will need to be referenced in "motorBackConfig.properties". For convenience,
+   its reccomended to save in the MotorBack program folder.
+
+Complete "motorBackConfig.properties" Settings
+1. Choose a browser to.
+2. In the "pairLists" folder, create or modify a list of currency/stock pairs to be back tested. Use the provided sample lists as a guide
+   for proper formatting to ensure the pair list is parsed accurately.
+3. In the "candleLists" folder, create or modify a list of candle lengths (time frames) with a corresponding order size. Use the 
+   provided sample lists as a guide for formatting.  This list of candle and order sizes will be back tested for each pair in the
+   designated pair list.
+4. When the 
 
 -------------
-IX. MS Excel Report Generator
+X. Program Operation
+-------------
+1. Once setup is complete, double click the motorBackTV_vX.XX.jar file to start the program.
+2. The browser of choice should open a new window and eventially navigate to the given TradingView chart.
+3. When the chart is loaded a
+
+-------------
+XI. MS Excel Report Generator
 -------------
 Supplied is a single MS Excel document capable of generating a detailed report of the data collected from the "Overview" and 
 "List of Trades" tabs in the "Strategy Tester" tab of Trading View.  The Excel document reads the "motorBackOutputs" folder for
