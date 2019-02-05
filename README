@@ -126,3 +126,7 @@ Create Trade List Report - Creates a report which summarizes the "List of Trades
 limit for number of graphs that can be generated per worksheet is set at 100. For pairs with more than 100 tested candles, the generated
 graphs will be split over multiple worksheets.  For example, a pair with 250 tested candles will require 3 worksheets. While the report
 is being generated, a progress bar will be shown with information displaying the progress status, pair by pair and candle by candle.
+
+NOTE: 	TradingView Chart History Limits:
+	Free account - 5,000 candles/bars are available for testing
+	Paid account - 10,000 candles/bars are available for testing
