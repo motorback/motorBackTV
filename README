@@ -36,6 +36,7 @@ binanceUSDT.txt				- Sample list of USDT pairs
 binanceBTC.txt				- Sample list of BTC pairs
 binanceETH.txt				- Sample list of ETH pairs
 candleList1.txt				- Sample list of candle/ordersize
+(6) *.csv files				- Sample CSV files that can be imported into the Excel Workbook
 README.txt				- This file describing program contents and operations
 folderStructureExample.JPG		- Folder structure example
 
@@ -92,10 +93,10 @@ motorBackRunDataLog.txt - This is a read friendly data file that includes the da
 the "Strategy Tester" window.
 
 motorBackData.csv - This is a CSV output of the data points stored in the "Overview" tab of the "Strategy Tester" window.  This 
-file can be imported into the supplied Excel Report Generator.
+file can be imported into the supplied Excel Report Generator.  See sample CSV files in "motorBackOutputs" folder.
 
 motorBackTradeListData.csv - This is a CSV output of the data stored in the "List of Trades" tab of the "Strategy Tester" window.  This 
-file can be imported into the supplied Excel Report Generator.
+file can be imported into the supplied Excel Report Generator.  See sample CSV files in "motorBackOutputs" folder.
 
 -------------
 VIII. Program Status and Live Options
@@ -113,7 +114,7 @@ Supplied is a single MS Excel document capable of generating a detailed report o
 CSV files to import. This folder name must remain the same, if changed, a new one will be created. On the first tab of the Excel file,
 three button options are given, "Create Trade Summary Report", "Create Trade List Report", and "Reset Report". The result of each
 report type will be the creation of a "RawData" worksheet that basically stores the data from the imported CSV file, and separate 
-worksheets for each pair that is tested.	
+worksheets for each pair that is tested. See sample CSV files in "motorBackOutputs" folder.
 
 Create Trade Summary Report - Creates a report that summarizes the Trading View "Overview" tab which includes the data points
 (Net Profit, Total Closed Trades, Percent Profitable, Profit Factor, Max Drawdown, Avg Trade, Avg No. of Bars In Trades) and
