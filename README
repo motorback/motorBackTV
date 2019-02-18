@@ -75,7 +75,7 @@ of each candle/orderSize value will be read in the file as comma separated value
 both. Each value must be a combination of a candle and order size, separated by a colon (ex. "candle=5:ordersize=100" = 5 minute candle 
 with 100 order size). The candle size value format must match what is acceptable by Trading View or it will not be recognized by 
 Trading View, see below examples and the provided sample files.
-	- One digit for minute charts, or first letter of the word for longer candles.
+	- Digits for minutes, or first letter of the word for longer candles.
 	- Examples: 1, 5, 30, 60, 1440, H, 2H, 6H, D, 5D, 3W, 6M
 
 -------------
