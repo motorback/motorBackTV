@@ -1,5 +1,5 @@
 MotorBackTV
-Version: 0.1.1 BETA
+Version: 0.1.2 BETA
 
 ------------
 I. Introduction
@@ -31,7 +31,7 @@ IV. File List
 ------------
 motorBackConfig.properties		- Contains the setup configuration for each back test execution
 motorBackReporter_v0.1_beta.xlsm	- MS Excel document capable of generating detailed report of back test results
-motorBackTV_v0.1.1_beta.jar		- Program executable file, double click to initiate back test after configuration is complete
+motorBackTV_v0.1.2_beta.jar		- Program executable file, double click to initiate back test after configuration is complete
 binanceUSDT.txt				- Sample list of USDT pairs		
 binanceBTC.txt				- Sample list of BTC pairs
 binanceETH.txt				- Sample list of ETH pairs
