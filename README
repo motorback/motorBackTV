@@ -109,7 +109,7 @@ and a information field with granular program statuses). Once a cancel option is
 setting in the properties file, a prompt will show to confirm the action.
 
 -------------
-XI. MS Excel Report Generator
+IX. MS Excel Report Generator
 -------------
 Supplied is a single MS Excel document capable of generating a detailed report of the data collected from the "Overview" and 
 "List of Trades" tabs in the "Strategy Tester" tab of Trading View.  The Excel document reads the "motorBackOutputs" folder for
@@ -133,3 +133,46 @@ is being generated, a progress bar will be shown with information displaying the
 NOTE: 	TradingView Chart History Limits:
 	Free account - 5,000 candles/bars are available for testing
 	Paid account - 10,000 candles/bars are available for testing
+
+-------------
+X. Program Setup
+-------------
+After Downloading "MotorBackTV_vX.XX.zip"
+1. Unzip file to location of your choice.
+2. Install or verify the installation of either FireFox and/or Chrome web browser, preferrably in the default locations. 
+
+Acquire The Appropriate Web Driver
+1. The web driver is used by the program to initialize and interface with the browser of choice.
+2. For Chrome, download the web driver from here: http://chromedriver.chromium.org/downloads
+3. For FireFox, download the web driver from here: https://github.com/mozilla/geckodriver/releases
+4. Store this file anywhere on the hard drive, the location will need to be referenced in "motorBackConfig.properties". For convenience,
+   its reccomended to save in the MotorBack program folder.
+
+Complete "motorBackConfig.properties" Settings
+1. Enter license key where specified if sent one from motorbacktv@gmail.com, otherwise, leave blank for demo.
+2. Input URL of Trading View chart where specified.
+3. In the "pairLists" folder, create or modify a list of currency/stock pairs to be back tested. Use the provided sample lists as a guide
+   for proper formatting to ensure the pair list is parsed accurately.
+4. In the "candleLists" folder, create or modify a list of candle lengths (time frames) with a corresponding order size. Use the 
+   provided sample lists as a guide for formatting.  This list of candle and order sizes will be back tested for each pair in the
+   designated pair list.
+5. Complete browser settings for browser of choice.
+6. Set program behavior for closing browser window upon test completion or error, default is "true".
+7. Set default exchange to use if missing from pair list file.
+8. Set name of back test strategy to use. The name must be identical to how it is displayed in Trading View's strategy 
+   pull down selection to be properly selected.
+9. Review description of pair cycle, candle cycle, and properties window click delays. Set custom delays or leave as is. These may 
+   need to be increased later depending on browser speed.
+   
+-------------
+XI. Program Operation
+-------------
+1. Once setup is complete, double click the motorBackTV_vX.XX.jar file to start the program.
+2. The browser of choice should open a new window and eventually navigate to the given TradingView chart once the settings are 
+   parsed succesfully.
+3. When the chart is loaded, a small console window will appear with options for aborting back test and program status updates.
+4. While the back tests are processing, any manual interaction with the new browser window may cause errors and program exit.
+5. After test is complete, the console window will close. The browser window will also close depending on the setting in the
+   "motorBackConfig.properties" file for "closeBrowserUponTestCompletion".
+6. The MS Excel Report Generator will be ready to import and process the new CSV files in the "motorBackOutputs" folder.
+7. Review the "motorBackRunLog.txt" file in the "motorBackOutputs" folder for a detailed summary of the back test process.
