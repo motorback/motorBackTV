@@ -28,4 +28,4 @@ Sample configuration options and files are provided to quickly get the program r
 If you are interested in being a beta tester, please send an email to motorbacktv@gmail.com and you will be sent an Access Key to test full capabilities.
 
 **DEMO**                                                                                                                                   
-The demo mode will enable any user to conduct 15 back tests at a time without the need of an access key.
+The demo mode will enable any user to conduct 10 back tests at a time without the need of an access key.
