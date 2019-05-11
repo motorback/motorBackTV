@@ -1,4 +1,4 @@
-MotorBackTV
+*MotorBackTV
 
 This program can be used for automating back tests using trade strategies on tradingview.com  Users must have an account
 on tradingview.com, be familiar with saving/editing chart layouts, and how to choose/utilize back testing strategies.
@@ -6,9 +6,8 @@ on tradingview.com, be familiar with saving/editing chart layouts, and how to ch
 Review the MotorBackTV Wiki Page Here: https://github.com/motorback/motorBackTV/wiki/MotorBackTV
 Download Latest Program Release Here: https://github.com/motorback/motorBackTV/releases
 
-------------
-II. PC Requirements
-------------
+
+**PC Requirements
 OS: Windows 8 or newer (developed/tested on Windows 10) (Linux and MAC support pending)
 Java: Java 8 or newer  (developed/tested on Java 8)
 Browser: FireFox or Chrome
@@ -16,10 +15,8 @@ Browser: FireFox or Chrome
 NOTE: Program Developed and Tested With Browser Installed At Default Locations...
 	C:\Program Files\Mozilla Firefox\firefox.exe
 	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
-	
-------------
-III. Quick Start Directions (see https://github.com/motorback/motorBackTV/wiki/MotorBackTV for detailed instructions)
-------------
+
+**Quick Start Directions (see https://github.com/motorback/motorBackTV/wiki/MotorBackTV for detailed instructions)
 Sample configuration options and files are provided to quickly get the program running once extracted on the users PC.
 1. Double click the motorBackTV_vX.XX.jar file to open the program console window.
 2. Input the Trading View URL of desired chart and back test strategy for properties #1 and #10.
