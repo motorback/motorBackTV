@@ -6,6 +6,7 @@ I. Introduction
 This program can be used for automating back tests using trade strategies on tradingview.com  Users must have an account
 on tradingview.com, be familiar with saving/editing chart layouts, and how to choose/utilize back testing strategies.
 
+Review the MotorBackTV Wiki Page Here: https://github.com/motorback/motorBackTV/wiki/MotorBackTV
 Download Latest Program Release Here: https://github.com/motorback/motorBackTV/releases
 
 ------------
