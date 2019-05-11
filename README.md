@@ -24,8 +24,8 @@ Sample configuration options and files are provided to quickly get the program r
 3. Complete the browser choice properties #4 thru #8.
 4. Click "START BACK TEST" button at bottom of console window to start back testing.
 
-**Need Beta Testers**
+**Need Beta Testers**                                                                                                                     
 If you are interested in being a beta tester, please send an email to motorbacktv@gmail.com and you will be sent an Access Key to test all features of the program.
 
-**DEMO**
+**DEMO**                                                                                                                                   
 The demo mode will enable any user to back test 15 pairs at a time without the need of an access key.
