@@ -23,7 +23,7 @@ NOTE: Program Developed and Tested With Browser Installed At Default Locations..
 **Quick Start Directions**                                                                                                              (see https://github.com/motorback/motorBackTV/wiki/MotorBackTV for detailed instructions)                                                 
 Sample configuration options and files are provided to quickly get the program running once extracted on the users PC.
 1. Double click the motorBackTV_vX.XX.jar file to open the program console window.
-2. Input the Trading View URL of desired chart and back test strategy for properties #1 and #10.
+2. Input the Trading View URL of desired chart and back test strategy for properties #1 and #2.
 3. Complete the browser choice properties #4 thru #8.
 4. Click "START BACK TEST" button at bottom of console window to start back testing.
 
