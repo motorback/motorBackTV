@@ -18,3 +18,8 @@ All notable changes to this project will be documented in this file.
 - Updated JAR to reflect changes on TradingView.  
 - motorBackTV_v0.1.1_beta.jar replaced with new file motorBackTV_v0.1.2_beta. 
   This the only file that changed, all else is the same from previous release.
+
+## [0.2.0_beta] - 2019-06-5
+### Modified
+- Added GUI Interface.  
+- Updates to refelect changes on TradingView.
