@@ -15,9 +15,8 @@ https://github.com/motorback/motorBackTV/releases
 - OS: Windows 7 or newer (developed/tested on Windows 10 & Windows Server 2012)                                            
   Linux and MAC support pending
   
-Java: Java 8 or newer  (developed/tested on Java 8)                                                                                       
-Browser: FireFox or Chrome                                                                                                                 
-                                                                                                                                          
+- Java: Java 8 or newer  (developed/tested on Java 8)                                                                                       
+- Browser: FireFox or Chrome                                                                                                                                                                                                                            
 NOTE: Program Developed and Tested With Browser Installed At Default Locations...
 	C:\Program Files\Mozilla Firefox\firefox.exe
 	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
