@@ -26,7 +26,9 @@ Sample configuration options and files are provided to quickly get the program r
 1. Download Chrome driver or FireFox driver.
 2. Double click the motorBackTV_vX.XX.jar file to open the program console window.
 3. Input the Trading View URL of desired chart and back test strategy for properties #1 and #2.
+   (reference: https://github.com/motorback/motorBackTV/wiki#viii-motorbacktv-console-screen)	
 4. Complete the browser choice properties #5 thru #9.
+   (reference: https://github.com/motorback/motorBackTV/wiki#viii-motorbacktv-console-screen)
 5. Click "START BACK TEST" button at bottom of console window to start back testing.
 
 **Beta Testers Needed**                                                                                                                   
