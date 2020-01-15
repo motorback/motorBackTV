@@ -33,6 +33,6 @@ All notable changes to this project will be documented in this file.
 
 ## [0.2.2_beta] - 2020-01-15
 ### Modified
-- Hot Fix: related to candle size recognition.
+- Hot Fix: Related to candle size recognition.
 - motorBackTV_v0.2.1_beta.jar replaced with new file motorBackTV_v0.2.2_beta.jar 
   This is the only file that changed, all else is the same from previous release.
