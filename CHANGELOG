@@ -10,13 +10,13 @@ All notable changes to this project will be documented in this file.
 ## [0.1.1_beta] - 2019-02-12
 ### Modified
 - Updates to reflect changes on TradingView.  
-- motorBackTV_v0.1_beta.jar replaced with new file motorBackTV_v0.1.1_beta. 
+- motorBackTV_v0.1_beta.jar replaced with new file motorBackTV_v0.1.1_beta.jar 
   This the only file that changed, all else is the same from previous release.
 
 ## [0.1.2_beta] - 2019-02-27
 ### Modified
 - Updated JAR to reflect changes on TradingView.  
-- motorBackTV_v0.1.1_beta.jar replaced with new file motorBackTV_v0.1.2_beta. 
+- motorBackTV_v0.1.1_beta.jar replaced with new file motorBackTV_v0.1.2_beta.jar 
   This the only file that changed, all else is the same from previous release.
 
 ## [0.2.0_beta] - 2019-06-5
@@ -28,5 +28,11 @@ All notable changes to this project will be documented in this file.
 ### Modified
 - Updates for full compatibility the latest version of Chrome (ver. 78) and TradingView.
 - Updates to refelect changes on TradingView.
-- motorBackTV_v0.2.0_beta.jar replaced with new file motorBackTV_v0.2.1_beta. 
-  This the only file that changed, all else is the same from previous release.
+- motorBackTV_v0.2.0_beta.jar replaced with new file motorBackTV_v0.2.1_beta.jar 
+  This is the only file that changed, all else is the same from previous release.
+
+## [0.2.2_beta] - 2020-01-15
+### Modified
+- Hot Fix: related to candle size recognition.
+- motorBackTV_v0.2.1_beta.jar replaced with new file motorBackTV_v0.2.2_beta.jar 
+  This is the only file that changed, all else is the same from previous release.
