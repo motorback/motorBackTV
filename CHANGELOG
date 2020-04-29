@@ -36,3 +36,11 @@ All notable changes to this project will be documented in this file.
 - Hot Fix: Related to candle size recognition.
 - motorBackTV_v0.2.1_beta.jar replaced with new file motorBackTV_v0.2.2_beta.jar 
   This is the only file that changed, all else is the same from previous release.
+
+## [0.2.3_beta] - 2020-04-28
+### Modified
+- Updates to refelect changes on TradingView.
+- MotorBackTV is not compatible yet with Chrome version 83 as this Chrome version is still in beta phase.
+  Due to this, Chrome Driver version 83 will not work with MotorBackTV yet.
+- motorBackTV_v0.2.2_beta.jar replaced with new file motorBackTV_v0.2.3_beta.jar 
+  This is the only file that changed, all else is the same from previous release.
