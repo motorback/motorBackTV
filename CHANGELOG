@@ -45,7 +45,7 @@ All notable changes to this project will be documented in this file.
 - motorBackTV_v0.2.2_beta.jar replaced with new file motorBackTV_v0.2.3_beta.jar 
   This is the only file that changed, all else is the same from previous release.
   
- ## [0.2.4_beta] - 2020-06-22
+## [0.2.4_beta] - 2020-06-22
 ### Modified
 - Updates to refelect changes on TradingView.
 - Fixed issue with program not recognizing single choice back test strategies.
