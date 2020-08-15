@@ -51,3 +51,13 @@ All notable changes to this project will be documented in this file.
 - Fixed issue with program not recognizing single choice back test strategies.
 - motorBackTV_v0.2.3_beta.jar replaced with new file motorBackTV_v0.2.4_beta.jar 
   This is the only file that changed, all else is the same from previous release.
+  
+## [0.3.0_beta] - 2020-08-15
+### Modified
+- Removed percent symbol from "Net Profit" on Trade Summary report.
+- Added new tab to program console window called "Results".  After a back test is completed, 
+  the "motorBackData.csv" output file will be parsed and displayed in this new tab and sorted 
+  by highest to lowest "Net Profit" for each pair. This should be a quicker way to analyze the 
+  overall results without having to generate a report or open log files.
+- motorBackTV_v0.2.4_beta.jar replaced with new file motorBackTV_v0.3.0_beta.jar 
+  This is the only file that changed, all else is the same from previous release.
