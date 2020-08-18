@@ -21,7 +21,7 @@ NOTE: Program Developed and Tested With Browser Installed At Default Locations..
 	C:\Program Files\Mozilla Firefox\firefox.exe
 	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 
-**Quick Start Directions**                                                                                                              (see https://github.com/motorback/motorBackTV/wiki for detailed instructions)                                                 
+**Quick Start Directions**                                                                                                              (see https://github.com/motorback/motorBackTV/wiki#iii-quick-start-directions for detailed instructions)                                                 
 Sample configuration options and files are provided to quickly get the program running once extracted on the users PC.
 1. Download Chrome driver or FireFox driver.
 2. Double click the motorBackTV_vX.XX.jar file to open the program console window.
