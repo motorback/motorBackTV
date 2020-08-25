@@ -68,5 +68,5 @@ All notable changes to this project will be documented in this file.
 - Added capture of "Sharpe Ratio" to "motorBackRunDataLog.txt" and "motorBackData.csv" output files.
 - Updated Report Generator to include Sharpe Ratio chart 
 - motorBackTV_v0.3.0_beta.jar replaced with new file motorBackTV_v0.3.1_beta.jar
-- motorBackReportGenerator_v0.1_beta.xlsx replaced with new file motorBackReportGenerator_v0.2_beta.xlsx
+- motorBackReportGenerator_v0.1_beta.xlsm replaced with new file motorBackReportGenerator_v0.2_beta.xlsm
 - All other files are the same from previous release.
