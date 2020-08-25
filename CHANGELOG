@@ -61,3 +61,12 @@ All notable changes to this project will be documented in this file.
   overall results without having to generate a report or open log files.
 - motorBackTV_v0.2.4_beta.jar replaced with new file motorBackTV_v0.3.0_beta.jar 
   This is the only file that changed, all else is the same from previous release.
+  
+## [0.3.1_beta] - 2020-08-25
+### Modified
+- Fixed "Results Tab" issue with missing initial row of data after first pair.
+- Added capture of "Sharpe Ratio" to "motorBackRunDataLog.txt" and "motorBackData.csv" output files.
+- Updated Report Generator to include Sharpe Ratio chart 
+- motorBackTV_v0.3.0_beta.jar replaced with new file motorBackTV_v0.3.1_beta.jar
+- motorBackReportGenerator_v0.1_beta.xlsx replaced with new file motorBackReportGenerator_v0.2_beta.xlsx
+- All other files are the same from previous release.
