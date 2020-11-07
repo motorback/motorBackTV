@@ -70,3 +70,9 @@ All notable changes to this project will be documented in this file.
 - motorBackTV_v0.3.0_beta.jar replaced with new file motorBackTV_v0.3.1_beta.jar
 - motorBackReportGenerator_v0.1_beta.xlsm replaced with new file motorBackReportGenerator_v0.2_beta.xlsm
 - All other files are the same from previous release.
+
+## [0.3.2_beta] - 2020-11-07
+### Modified
+- Updates to refelect changes on TradingView
+- motorBackTV_v0.3.1_beta.jar replaced with new file motorBackTV_v0.3.2_beta.jar
+- All other files are the same from previous release.
