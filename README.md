@@ -17,8 +17,8 @@ https://github.com/motorback/motorBackTV/releases
   
 - Java: Java 8 or newer  (developed/tested on Java 8)                                                                                       
 - Browser: FireFox (ver. 82) or Chrome (ver. 86)                                                                                                                                                                                                                                                                                                                                                                                                  
-NOTE: Program Developed and Tested With Browser Installed At Default Locations...
-	C:\Program Files\Mozilla Firefox\firefox.exe
+NOTE: Program Developed and Tested With Browser Installed At Default Locations...                                
+	C:\Program Files\Mozilla Firefox\firefox.exe                                                                   
 	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 
 **Quick Start Directions**                                                                                                              (see https://github.com/motorback/motorBackTV/wiki#iii-quick-start-directions for detailed instructions)                                                 
