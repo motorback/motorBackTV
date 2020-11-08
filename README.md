@@ -16,14 +16,14 @@ https://github.com/motorback/motorBackTV/releases
   Linux and MAC support pending
   
 - Java: Java 8 or newer  (developed/tested on Java 8)                                                                                       
-- Browser: FireFox (ver. 79) or Chrome (ver. 84)                                                                                                                                                                                                                                                                                                                                                                                                  
+- Browser: FireFox (ver. 82) or Chrome (ver. 86)                                                                                                                                                                                                                                                                                                                                                                                                  
 NOTE: Program Developed and Tested With Browser Installed At Default Locations...
 	C:\Program Files\Mozilla Firefox\firefox.exe
 	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 
 **Quick Start Directions**                                                                                                              (see https://github.com/motorback/motorBackTV/wiki#iii-quick-start-directions for detailed instructions)                                                 
 Sample configuration options and files are provided to quickly get the program running once extracted on the users PC.
-1. Download Chrome driver or FireFox driver.
+1. Download Chrome driver (should match Chrome version) or FireFox driver.
 2. Double click the motorBackTV_vX.XX.jar file to open the program console window.
 3. Input the Trading View URL of desired chart and back test strategy for properties #1 and #2.                                        
    (reference: https://github.com/motorback/motorBackTV/wiki#iv-motorbacktv-console-screen)	
