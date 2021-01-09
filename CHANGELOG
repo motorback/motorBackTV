@@ -76,3 +76,27 @@ All notable changes to this project will be documented in this file.
 - Updates to refelect changes on TradingView
 - motorBackTV_v0.3.1_beta.jar replaced with new file motorBackTV_v0.3.2_beta.jar
 - All other files are the same from previous release.
+
+## [0.4.0_beta] - 2021-01-08
+### Modified
+- Added ability to adjust strategy inputs in the "Input" tab of "Format" settings window.
+  Strategy input configuration will be parsed from the "Candle/OrderSize List" text file.
+  Example strategy input configuration: "strategyinputs(Length=30:OverSold=40)"
+  The above example will tell the program to adjust two settings, "Length" and "OverSold"
+  The name/title of each setting needs to be spelled exactly how it appears on the site for the program to recognize it.
+  Check box values should be set as "true" or "false".
+  Drop down selections should be spelled exactly as they appear in the drop down options for the program to select it.
+  Any settings that are not found or recognized will be reported in the log file
+- Added ability to adjust chart symbol properties in the "Symbol" tab of "Chart Properties"
+  Chart symbol configuration will be parsed from the "Candle/OrderSize List" text file.
+  Example chart symbol configuration: "chartpropertysymbols(Precision=Default:Borders=true)"
+  The above example will tell the program to adjust two settings, "Precision" and "Borders"
+  The name/title of each setting needs to be spelled exactly how it appears on the site for the program to recognize it.
+  Check box values should be set as "true" or "false".
+  Drop down selections should be spelled exactly as they appear in the drop down options for the program to select it.
+  Any settings that are not found or recognized will be reported in the log file
+- Added capture of "Open PL" (Open Position Profit/Loss) value to "motorBackRunDataLog.txt" and "motorBackData.csv" output files.
+- motorBackTV_v0.3.1_beta.jar replaced with new file motorBackTV_v0.4.0_beta.jar
+- motorBackReportGenerator_v0.2_beta.xlsm replaced with new file motorBackReportGenerator_v0.3_beta.xlsm
+- New candle list sample file added that includes examples of strategy input and chart symbol configurations
+- All other files are the same from previous release.
