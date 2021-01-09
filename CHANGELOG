@@ -96,7 +96,9 @@ All notable changes to this project will be documented in this file.
   Drop down selections should be spelled exactly as they appear in the drop down options for the program to select it.
   Any settings that are not found or recognized will be reported in the log file
 - Added capture of "Open PL" (Open Position Profit/Loss) value to "motorBackRunDataLog.txt" and "motorBackData.csv" output files.
+- Candle Cycle Delay can now be used to allow the browser more time to load new candle data before it is parsed by the program.
 - motorBackTV_v0.3.1_beta.jar replaced with new file motorBackTV_v0.4.0_beta.jar
 - motorBackReportGenerator_v0.2_beta.xlsm replaced with new file motorBackReportGenerator_v0.3_beta.xlsm
-- New candle list sample file added that includes examples of strategy input and chart symbol configurations
+- New candle list sample file added that includes below example of a strategy input and chart symbol configuration
+  "candle=3:ordersize=30:strategyinputs(Length=30:OverSold=40):chartpropertysymbols(Precision=Default:Body=true:Borders=true)"
 - All other files are the same from previous release.
