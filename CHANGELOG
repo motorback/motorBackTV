@@ -102,3 +102,12 @@ All notable changes to this project will be documented in this file.
 - New candle list sample file added that includes below example of a strategy input and chart symbol configuration
   "candle=3:ordersize=30:strategyinputs(Length=30:OverSold=40):chartpropertysymbols(Precision=Default:Body=true:Borders=true)"
 - All other files are the same from previous release.
+
+## [0.4.2_beta] - 2021-03-17
+### Modified
+- Added record of strategy inputs and chart properties to "motorBackData.csv", "motorBackTradeListData.csv", Trade Summary Report, and Trade List Report.
+- Added capture of "BuyHoldReturn" value to "motorBackRunDataLog.txt", "motorBackData.csv" output files, and Trade Summary Report.
+- Tested compatibility with Chrome Browser version 88 with matching Chrome Driver version
+- motorBackTV_v0.4.0_beta.jar replaced with new file motorBackTV_v0.4.2_beta.jar
+- motorBackReportGenerator_v0.3_beta.xlsm replaced with new file motorBackReportGenerator_v0.5_beta.xlsm
+- All other files are the same from previous release.
