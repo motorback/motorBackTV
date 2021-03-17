@@ -108,7 +108,7 @@ All notable changes to this project will be documented in this file.
 - Added record of strategy inputs and chart properties to "motorBackData.csv", "motorBackTradeListData.csv", Trade Summary Report, and Trade List Report.
 - Added capture of "BuyHoldReturn" value to "motorBackRunDataLog.txt", "motorBackData.csv" output files, and Trade Summary Report.
 - Increased the Trade List Report Chart scale to handle larger increments
-- NOTE: Next version contains Trade List Report update to take into account "Initial Capital" for more accurate Equity Values. Current Equity is set at "100".
+- NOTE: Next version contains Trade List Report update to take into account "Initial Capital" for more accurate Equity Values.
 - Tested compatibility with Chrome Browser version 88 with matching Chrome Driver version
 - motorBackTV_v0.4.0_beta.jar replaced with new file motorBackTV_v0.4.2_beta.jar
 - motorBackReportGenerator_v0.3_beta.xlsm replaced with new file motorBackReportGenerator_v0.5_beta.xlsm
