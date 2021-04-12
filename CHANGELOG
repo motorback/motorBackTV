@@ -115,3 +115,10 @@ All notable changes to this project will be documented in this file.
 - motorBackReportGenerator_v0.3_beta.xlsm replaced with new file motorBackReportGenerator_v0.5_beta.xlsm
 - All other files are the same from previous release.
 
+## [0.4.3_beta] - 2021-04-11
+### Modified
+- Updates to refelect TradingView.
+- Increased pair limit to 900
+- NOTE: If testing over 253 pairs, the Report Generator will not be able to handle this amount of pairs due to a tab quantity limit within MS Excel
+- motorBackTV_v0.4.2_beta.jar replaced with new file motorBackTV_v0.4.3_beta.jar
+- All other files are the same from previous release.
