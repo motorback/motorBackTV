@@ -129,3 +129,16 @@ All notable changes to this project will be documented in this file.
 - Fixed issue with GUI mandatory fields
 - motorBackTV_v0.4.3_beta.jar replaced with new file motorBackTV_v0.4.4_beta.jar
 - All other files are the same from previous release.
+
+## [0.4.5_beta] - 2021-07-13
+### Modified
+- Updates to reflect TradingView.
+- motorBackTV_v0.4.4_beta.jar replaced with new file motorBackTV_v0.4.5_beta.jar
+- All other files are the same from previous release.
+
+## [0.4.6_beta] - 2021-07-29
+### Modified
+- Fixed chart property setting errors.
+- Potential fix to order size errors some are still experiencing.
+- motorBackTV_v0.4.5_beta.jar replaced with new file motorBackTV_v0.4.6_beta.jar
+- All other files are the same from previous release.
