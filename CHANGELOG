@@ -142,3 +142,10 @@ All notable changes to this project will be documented in this file.
 - Potential fix to order size errors some are still experiencing.
 - motorBackTV_v0.4.5_beta.jar replaced with new file motorBackTV_v0.4.6_beta.jar
 - All other files are the same from previous release.
+
+## [0.4.7_beta] - 2021-10-25
+### Modified
+- Fixed chart settings bug.
+- Fixed time frame changing issue due to site updates
+- motorBackTV_v0.4.6_beta.jar replaced with new file motorBackTV_v0.4.7_beta.jar
+- All other files are the same from previous release.
