@@ -16,7 +16,7 @@ https://github.com/motorback/motorBackTV/releases
   Linux and MAC support pending
   
 - Java: Java 8 or newer  (developed/tested on Java 8)                                                                                       
-- Browser: FireFox (ver. 85) or Chrome (ver. 88)                                                                                                                                                                                                                                                                                                                                                                                                  
+- Browser: FireFox (ver. 93) or Chrome (ver. 94)                                                                                                                                                                                                                                                                                                                                                                                                  
 NOTE: Program Developed and Tested With Browser Installed At Default Locations...                                
 	C:\Program Files\Mozilla Firefox\firefox.exe                                                                   
 	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
