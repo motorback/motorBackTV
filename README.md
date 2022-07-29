@@ -31,8 +31,5 @@ Sample configuration options and files are provided to quickly get the program r
    (reference: https://github.com/motorback/motorBackTV/wiki#iv-motorbacktv-console-screen)
 5. Click "START BACK TEST" button at bottom of console window to start back testing.
 
-**Beta Testers Needed**                                                                                                                   
-If you are interested in being a beta tester, please send an email to motorbacktv@gmail.com and you will be sent an Access Key to be able to conduct a larger batch of back tests. Results of the beta testing will be an opportunity to see if the program is viable enough to properly maintain with new features and timely updates for a limited number of people who are interested.
-
 **DEMO**                                                                                                                                   
 The demo mode will enable any user to conduct 15 back tests at a time without the need of an access key.
